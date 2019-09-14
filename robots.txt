@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paibukoom.ououe.com/sitemap.xml
